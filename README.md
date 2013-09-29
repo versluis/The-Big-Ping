@@ -15,4 +15,6 @@ Then uplaod all files into one directory, call it in a browser and voila.
 Roadmap
 =======
 
-Right now The Big Ping is a standalone script. I'm hatching plans to create a WordPress Plugin with admin interface to add additional domains.
+Right now The Big Ping is a standalone script. 
+
+I'm hatching plans to create a WordPress Plugin with admin interface to add additional domains.
