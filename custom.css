@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* colour even and odd rows differently */
+tr:nth-child(even) {background: #DDD}
+tr:nth-child(odd) {background: #FFF}
+
+/* style fonts */
+body {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	max-width:400px;
+}
+
+.domain {
+	font-style:italic;
+}
+
+.ip {
+	font-weight:bold;
+}
+
+.footer {
+	font-size:smaller;
+	color:#666;
+	text-align:center;
+	background-color:#F93;
+	padding:5px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+#header {
+	text-align:center;
+	padding:10px;
+	background-color:#F93;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+}
+
+td {
+	padding:5px;
+}
